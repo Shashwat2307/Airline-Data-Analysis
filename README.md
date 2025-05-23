@@ -1,4 +1,5 @@
 # Airline Data Analysis - Power BI Project
+![image](https://github.com/user-attachments/assets/d683e616-b047-4715-b022-b325e9cc43a9)
 
 This is a Power BI project that focuses on analyzing airline data using three datasets:
 - Passenger Information
